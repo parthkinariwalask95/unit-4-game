@@ -9,18 +9,18 @@
 }
 .j1{
     background-color: tomato;
-    width: 420px;
+    width: 425px;
     height: 155px;
     box-shadow: 10px 10px 8px blue;
 }
 .j2{
     background-color: tomato;
-    width: 420px;
+    width: 425px;
     height: 155px;
     box-shadow: 10px 10px 8px blue;
 }
-#image{
-    font-size: 10px;
+.image{
+    height:200px;
 }
 .h22{
     color: black;
